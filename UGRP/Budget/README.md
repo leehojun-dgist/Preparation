@@ -1,3 +1,11 @@
+# Buying Devices
+
+  - [Jetson Nano](https://www.devicemart.co.kr/goods/view?no=12513656&gclid=Cj0KCQjwktKFBhCkARIsAJeDT0gi-amJMSPyNi03J2ePYi86bRYRq4Y_Rd3L3mcs527j9gIkUmpnvIcaAs_iEALw_wcB)
+  - [Wireless Lan Card](https://www.devicemart.co.kr/goods/view?no=12532502)
+  - [Antena and Cables](https://www.devicemart.co.kr/goods/view?no=12508567)
+  - [Power Adapter](https://www.devicemart.co.kr/goods/view?no=12504448)
+
+
 # About Fund
 
 ![](Fund1.jpeg)
