@@ -1,9 +1,14 @@
 # Buying Devices
 
-  - [Jetson Nano](https://www.devicemart.co.kr/goods/view?no=12513656&gclid=Cj0KCQjwktKFBhCkARIsAJeDT0gi-amJMSPyNi03J2ePYi86bRYRq4Y_Rd3L3mcs527j9gIkUmpnvIcaAs_iEALw_wcB)
-  - [Wireless Lan Card](https://www.devicemart.co.kr/goods/view?no=12532502)
-  - [Antena and Cables](https://www.devicemart.co.kr/goods/view?no=12508567)
-  - [Power Adapter](https://www.devicemart.co.kr/goods/view?no=12504448)
+  - [Jetson Nano](https://www.devicemart.co.kr/goods/view?no=12513656&gclid=Cj0KCQjwktKFBhCkARIsAJeDT0gi-amJMSPyNi03J2ePYi86bRYRq4Y_Rd3L3mcs527j9gIkUmpnvIcaAs_iEALw_wcB) : 130,000 won
+  - [Wireless Lan Card](https://www.devicemart.co.kr/goods/view?no=12532502) : 22,000 won
+  - [Antena and Cables](https://www.devicemart.co.kr/goods/view?no=12508567) : 7,000 won
+  - [Power Adapter](https://www.devicemart.co.kr/goods/view?no=12504448) : 6,700 won
+  - [Case with Fan](https://www.devicemart.co.kr/goods/view?no=12711068) : 20,000 won
+  - [Keyboard and Mouse](https://www.devicemart.co.kr/goods/view?no=12138387) : 63,500
+  - Total : 249,200 won/device
+  - About 4 devices: 996,800 won
+
 
 
 # About Fund
